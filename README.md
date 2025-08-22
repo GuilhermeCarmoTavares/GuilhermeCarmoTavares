@@ -1,6 +1,6 @@
 ## 👋 Olá! Seja bem-vindo(a) ao meu perfil!
 
-## Sou Desenvolvedor Backend em constante evolução, com foco em construir uma carreira sólida na área de tecnologia. Tenho me dedicado ao desenvolvimento de projetos pessoais como APIs REST, sistemas de autenticação e aplicações CRUD, buscando sempre aplicar boas práticas de desenvolvimento.
+## Sou Desenvolvedor  em constante evolução, com foco em construir uma carreira sólida na área de tecnologia. Tenho me dedicado ao desenvolvimento de projetos pessoais, buscando sempre aplicar boas práticas de desenvolvimento.
 <br>
 
 ## 💡Meu objetivo  é a criação de aplicações com código organizado, limpo, bem documentado e de alto desempenho.
