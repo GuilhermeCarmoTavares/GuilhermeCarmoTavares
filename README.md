@@ -9,7 +9,7 @@
 ## 🛠️ Principais Tecnologias e Ferramentas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,pytyhon,javascript,html,css,git,github" />
+    <img src="https://skillicons.dev/icons?i=java,py,javascript,html,css,git,github" />
   </a>
   
 </p>
